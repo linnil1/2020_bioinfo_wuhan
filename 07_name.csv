@@ -1,0 +1,193 @@
+hap,country,accession,continent,short
+Hap_1,China,MN938384,Asia,CHN
+Hap_1,USA,MN997409,America,USA
+Hap_2,Taiwan,MT066175,Asia,TWN
+Hap_2,USA,MN988713,America,USA
+Hap_2,China,MN988668,Asia,CHN
+Hap_2,China,MN988669,Asia,CHN
+Hap_2,China,MN996528,Asia,CHN
+Hap_2,Nepal,MT072688,Asia,NPL
+Hap_2,China,MN996530,Asia,CHN
+Hap_2,Taiwan,MT192759,Asia,TWN
+Hap_2,Thailand,MT447155,Asia,THA
+Hap_2,Thailand,MT447157,Asia,THA
+Hap_2,Pakistan,MT262993,Asia,PAK
+Hap_3,Taiwan,MT066176,Asia,TWN
+Hap_4,USA,MN985325,America,USA
+Hap_4,USA,MT020880,America,USA
+Hap_4,USA,MT020881,America,USA
+Hap_5,USA,MT027062,America,USA
+Hap_5,USA,MT027063,America,USA
+Hap_6,USA,MT027064,America,USA
+Hap_7,USA,MN994467,America,USA
+Hap_8,Uruguay,MT466071,America,URY
+Hap_9,Brazil,MT126808,America,BRA
+Hap_9,Taiwan,MT374105,Asia,TWN
+Hap_10,Brazil,MT350282,America,BRA
+Hap_11,Sri Lanka,MT371050,Asia,LKA
+Hap_12,South Korea,MT304474,Asia,KOR
+Hap_12,South Korea,MT304475,Asia,KOR
+Hap_12,South Korea,MT304476,Asia,KOR
+Hap_13,Jamaica,MT507271,America,JAM
+Hap_13,Jamaica,MT507273,America,JAM
+Hap_13,Jamaica,MT507274,America,JAM
+Hap_14,USA,MN994468,America,USA
+Hap_15,Italy,MT066156,Europe,ITA
+Hap_16,Finland,MT020781,Europe,FIN
+Hap_17,China,MN975262,Asia,CHN
+Hap_18,Viet Nam,MT192772,Asia,VNM
+Hap_18,Viet Nam,MT192773,Asia,VNM
+Hap_19,Hong Kong,MT114413,Asia,HKG
+Hap_19,Hong Kong,MT114412,Asia,HKG
+Hap_20,Hong Kong,MT114417,Asia,HKG
+Hap_20,Hong Kong,MT114416,Asia,HKG
+Hap_21,Hong Kong,MT114418,Asia,HKG
+Hap_21,Hong Kong,MT114419,Asia,HKG
+Hap_22,Hong Kong,MT114414,Asia,HKG
+Hap_22,Hong Kong,MT114415,Asia,HKG
+Hap_23,Hong Kong,MT230904,Asia,HKG
+Hap_24,China,MT019529,Asia,CHN
+Hap_25,Greece,MT328034,Europe,GRC
+Hap_26,Kazakhstan,MT428554,Asia,KAZ
+Hap_27,India,MT415322,Asia,IND
+Hap_27,Guam,MT459986,Oceania,GUM
+Hap_27,Jamaica,MT507272,America,JAM
+Hap_27,Timor-Leste,MT641768,Asia,TLS
+Hap_28,Guam,MT459985,Oceania,GUM
+Hap_29,Guam,MT459987,Oceania,GUM
+Hap_30,Timor-Leste,MT612281,Asia,TLS
+Hap_30,Timor-Leste,MT641766,Asia,TLS
+Hap_30,Timor-Leste,MT641774,Asia,TLS
+Hap_31,Timor-Leste,MT641776,Asia,TLS
+Hap_32,Timor-Leste,MT641767,Asia,TLS
+Hap_33,Taiwan,MT370516,Asia,TWN
+Hap_33,Taiwan,MT370518,Asia,TWN
+Hap_33,Taiwan,MT374104,Asia,TWN
+Hap_33,Taiwan,MT374102,Asia,TWN
+Hap_34,Taiwan,MT374103,Asia,TWN
+Hap_35,Italy,MT077125,Europe,ITA
+Hap_36,Spain,MT198652,Europe,ESP
+Hap_36,Spain,MT233519,Europe,ESP
+Hap_36,Spain,MT233523,Europe,ESP
+Hap_36,Spain,MT292571,Europe,ESP
+Hap_37,Spain,MT292574,Europe,ESP
+Hap_38,Spain,MT292573,Europe,ESP
+Hap_39,Spain,MT233522,Europe,ESP
+Hap_39,Russia,MT637143,Europe,RUS
+Hap_40,Serbia,MT569470,Europe,SRB
+Hap_41,Serbia,MT450872,Europe,SRB
+Hap_41,Serbia,MT459979,Europe,SRB
+Hap_42,Spain,MT292569,Europe,ESP
+Hap_43,Spain,MT292570,Europe,ESP
+Hap_44,Germany,MT270101,Europe,DEU
+Hap_44,Germany,MT270112,Europe,DEU
+Hap_44,Germany,MT270103,Europe,DEU
+Hap_45,Germany,MT270107,Europe,DEU
+Hap_45,Germany,MT270110,Europe,DEU
+Hap_45,Germany,MT270111,Europe,DEU
+Hap_45,Germany,MT270102,Europe,DEU
+Hap_45,Germany,MT270106,Europe,DEU
+Hap_46,Germany,MT582453,Europe,DEU
+Hap_47,Spain,MT292572,Europe,ESP
+Hap_48,Colombia,MT256924,America,COL
+Hap_49,China,MN996527,Asia,CHN
+Hap_50,China,MN996529,Asia,CHN
+Hap_51,India,MT435079,Asia,IND
+Hap_51,India,MT415321,Asia,IND
+Hap_51,Netherlands,MT510999,Europe,NLD
+Hap_51,Italy,MT525950,Europe,ITA
+Hap_51,Italy,MT527184,Europe,ITA
+Hap_52,India,MT435080,Asia,IND
+Hap_53,India,MT435081,Asia,IND
+Hap_54,Thailand,MT447154,Asia,THA
+Hap_55,Thailand,MT447159,Asia,THA
+Hap_56,Thailand,MT447161,Asia,THA
+Hap_57,Thailand,MT447156,Asia,THA
+Hap_58,Thailand,MT447162,Asia,THA
+Hap_59,Thailand,MT447158,Asia,THA
+Hap_60,Thailand,MT447163,Asia,THA
+Hap_61,South Africa,MT324062,Africa,ZAF
+Hap_62,Sri Lanka,MT371049,Asia,LKA
+Hap_63,Kazakhstan,MT428552,Asia,KAZ
+Hap_64,India,MT358637,Asia,IND
+Hap_65,Greece,MT328032,Europe,GRC
+Hap_66,Greece,MT328035,Europe,GRC
+Hap_67,Sri Lanka,MT371048,Asia,LKA
+Hap_67,India,MT415323,Asia,IND
+Hap_67,Greece,MT459832,Europe,GRC
+Hap_67,Greece,MT459835,Europe,GRC
+Hap_67,Greece,MT459834,Europe,GRC
+Hap_67,Italy,MT527178,Europe,ITA
+Hap_67,Saudi Arabia,MT630428,Asia,SAU
+Hap_68,Kazakhstan,MT428553,Asia,KAZ
+Hap_69,Poland,MT499209,Europe,POL
+Hap_69,Poland,MT499210,Europe,POL
+Hap_70,Poland,MT511066,Europe,POL
+Hap_70,Poland,MT511070,Europe,POL
+Hap_71,Poland,MT511068,Europe,POL
+Hap_72,Colombia,MT470219,America,COL
+Hap_73,Poland,MT511067,Europe,POL
+Hap_74,Poland,MT511071,Europe,POL
+Hap_75,Italy,MT531537,Europe,ITA
+Hap_75,Turkey,MT560530,Asia,TUR
+Hap_76,Poland,MT511069,Europe,POL
+Hap_77,Greece,MT328033,Europe,GRC
+Hap_78,Germany,MT318827,Europe,DEU
+Hap_79,Poland,MT499208,Europe,POL
+Hap_80,Jamaica,MT507275,America,JAM
+Hap_81,Jamaica,MT507276,America,JAM
+Hap_82,Jamaica,MT507794,America,JAM
+Hap_83,Greece,MT459833,Europe,GRC
+Hap_84,Greece,MT459836,Europe,GRC
+Hap_85,Saudi Arabia,MT630422,Asia,SAU
+Hap_86,Saudi Arabia,MT630427,Asia,SAU
+Hap_87,Saudi Arabia,MT630425,Asia,SAU
+Hap_87,Saudi Arabia,MT630426,Asia,SAU
+Hap_88,Saudi Arabia,MT630424,Asia,SAU
+Hap_89,Saudi Arabia,MT630430,Asia,SAU
+Hap_90,Saudi Arabia,MT630429,Asia,SAU
+Hap_91,Italy,MT528237,Europe,ITA
+Hap_92,Italy,MT528239,Europe,ITA
+Hap_93,Italy,MT528238,Europe,ITA
+Hap_94,Italy,MT528235,Europe,ITA
+Hap_95,Australia,MT450941,Oceania,AUS
+Hap_96,Australia,MT450946,Oceania,AUS
+Hap_97,Poland,MT511072,Europe,POL
+Hap_98,Peru,MT263074,America,PER
+Hap_99,Tunisia,MT499219,Africa,TUN
+Hap_100,China,MN996531,Asia,CHN
+Hap_101,India,MT012098,Asia,IND
+Hap_102,Saudi Arabia,MT630423,Asia,SAU
+Hap_103,Australia,MT450944,Oceania,AUS
+Hap_104,Czech Republic,MT517421,Europe,CZE
+Hap_105,Australia,MT450935,Oceania,AUS
+Hap_106,India,MT050493,Asia,IND
+Hap_107,Pakistan,MT240479,Asia,PAK
+Hap_108,Iran,MT320891,Asia,IRN
+Hap_109,India,MT415320,Asia,IND
+Hap_110,Timor-Leste,MT641778,Asia,TLS
+Hap_111,Czech Republic,MT371569,Europe,CZE
+Hap_112,Czech Republic,MT517422,Europe,CZE
+Hap_113,Hong Kong,MT215194,Asia,HKG
+Hap_114,Australia,MT450936,Oceania,AUS
+Hap_115,Australia,MT450938,Oceania,AUS
+Hap_116,Turkey,MT327745,Asia,TUR
+Hap_117,Iran,MT447177,Asia,IRN
+Hap_118,Sri Lanka,MT371047,Asia,LKA
+Hap_119,Sweden,MT093571,Europe,SWE
+Hap_120,Greece,MT459837,Europe,GRC
+Hap_121,Jamaica,MT507793,America,JAM
+Hap_122,Czech Republic,MT517420,Europe,CZE
+Hap_123,Australia,MT450932,Oceania,AUS
+Hap_123,Australia,MT450942,Oceania,AUS
+Hap_123,Australia,MT450943,Oceania,AUS
+Hap_124,Malaysia,MT372480,Asia,MYS
+Hap_125,Malaysia,MT372481,Asia,MYS
+Hap_126,Kazakhstan,MT428551,Asia,KAZ
+Hap_127,Pakistan,MT500122,Asia,PAK
+Hap_128,Australia,MT007544,Oceania,AUS
+Hap_129,Taiwan,MT374101,Asia,TWN
+Hap_130,Tunisia,MT499218,Africa,TUN
+Hap_131,Tunisia,MT499220,Africa,TUN
+Hap_132,Saudi Arabia,MT630421,Asia,SAU
+Hap_133,Malaysia,MT372482,Asia,MYS
